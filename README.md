@@ -36,4 +36,8 @@ Let us denote Pb(γ) as the BER for a certain modulation scheme with a certain S
      Explain in your own words how the self-built differential encoding/decoding model works and the effect of each of the blocks included.  Also, explain how you choose the values of the parameters in each block in the differential encoding/decoding block, such as delay, and power gain, if applicable.              [6 marks]
      Can you explain why the first symbol is often detected in error, even in slow fading channels in the high SNR regime?                   [3 marks] (Hint: Think about differential encoding/decoding.)
      Compare the BER plots obtained from simulations for Scenarios 1 and 2 with the BER plot obtained in Task I. Describe your observation and explain why the performance with differ- ential coding is better/worse than that with coherent detection?     [3 marks]
-     Using the criteria we have learned in [Lecture 7] to determine the range of Doppler shift, Ds , for fast, medium-rate, and slow fading channel.                                                          [3 marks]         codinghelp Email: xujuncoding@gmail.com
+     Using the criteria we have learned in [Lecture 7] to determine the range of Doppler shift, Ds , for fast, medium-rate, and slow fading channel.                                                          [3 marks]        
+     
+     
+     
+**     codinghelp Email: xujuncoding@gmail.com**
